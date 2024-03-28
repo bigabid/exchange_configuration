@@ -1,0 +1,7 @@
+exchange,use_in_serving,win_threshold,lose_threshold,lose_reason,win_reason
+adx,1,-0.01,-0.0001,"[79,80]",[1]
+applovin,1,0.0001,0.0001,"[101,102,103]",[0]
+vungle,1,,,"[101,102]",
+fyber,1,0.0001,0.0001,"[100,101,102]",[0]
+ironsource,1,0.0001,0.0001,"[102,103]",
+unity,1,0.0001,0.0001,"[101,102]",
